@@ -1,21 +1,21 @@
-## Final Project Full Stack Bootcamp
+# Final Project Full Stack Bootcamp
 
 Web-Experience for a Swiss NGO...
 
-### Webshop
+## Webshop
 
 Building a **Webshop** with **Products**, **Cart**, **Payment**, **Orders**, **Stock-Tracking**
 
-### Stories
+## Stories
 
 Adding some **Social Media** flair with the option to post **Stories**, **Reviews** and a **Comment** feature
 
-### Authentication
+## Authentication
 
 **Registration**, **Validation** with e-mail code, **Login**
 <br>
 
-### <ins>First Impressions:</ins>
+## First Impressions:
 <br>
 
 <img width="1139" alt="Bildschirmfoto 2022-11-09 um 01 31 07" src="https://user-images.githubusercontent.com/110164826/200707023-7350f764-d27e-4398-ad63-21cb71b3bf94.png">
