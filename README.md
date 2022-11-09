@@ -15,7 +15,7 @@ Adding some **Social Media** flair with the option to post **Stories**, **Review
 **Registration**, **Validation** with e-mail code, **Login**
 <br>
 
-## First Impressions:
+## First Impressions
 <br>
 
 <img width="1139" alt="Bildschirmfoto 2022-11-09 um 01 31 07" src="https://user-images.githubusercontent.com/110164826/200707023-7350f764-d27e-4398-ad63-21cb71b3bf94.png">
