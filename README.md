@@ -16,9 +16,11 @@ Adding some **Social Media** flair with the option to post **Stories** and a **C
 **Registration**, **Validation** with e-mail code, **Login**
 <br>
 
-## Some Impressions
-<br>
+## Impressions
+
+
 ### Stories
+![Stories](https://user-images.githubusercontent.com/110164826/202518362-c513d66c-3023-4484-a849-6fe64423e6c2.png)
 
 
 
@@ -27,9 +29,12 @@ Adding some **Social Media** flair with the option to post **Stories** and a **C
 
 
 
-### Detailed Product View
+### Detailed Product View 1
 ![Red Bag](https://user-images.githubusercontent.com/110164826/202509988-c675794e-f1f2-4645-97de-8feaf010d592.png)
 
+
+
+### Detailed Product View 2
 ![Green Bag](https://user-images.githubusercontent.com/110164826/202510013-86dd590b-957b-42c8-b647-55c277654163.png)
 
 
@@ -69,10 +74,12 @@ Adding some **Social Media** flair with the option to post **Stories** and a **C
 
 
 
-### About Page
+### About Page 1
 ![About](https://user-images.githubusercontent.com/110164826/202512129-18f7b206-d489-4bd0-bb29-92a4fa3a117e.png)
 
 
+
+### About Page 2
 ![Statistics](https://user-images.githubusercontent.com/110164826/202512193-3667ac96-db0c-403e-93b6-fae6c04cfca7.png)
 
 
@@ -83,4 +90,4 @@ The project was developed using Docker and GitLab CI/CD. The required files are 
 
 ## Doing some good
 If you want to support the Project until our version is live, go to bagsforeveryone's current page.
-It's a great cause and it was very fullfilling to work for them.
+It's a great cause and it was very fullfilling to work for them. https://bagforeveryone.com/en/
