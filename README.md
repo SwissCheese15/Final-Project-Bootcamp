@@ -91,3 +91,11 @@ The project was developed using Docker and GitLab CI/CD. The required files are 
 ## Doing some good
 If you want to support the Project until our version is live, go to bagsforeveryone's current page.
 It's a great cause and it was very fullfilling to work for them. https://bagforeveryone.com/en/
+
+## Team
+A big shout out to our team:
+<ul>
+<li>Stefan Guler https://www.linkedin.com/in/stefan-guler/</li>
+<li>Vedran Vitas https://www.linkedin.com/in/vedran-vitas/</li>
+<li>Alina Pankova https://www.linkedin.com/in/alina-pankova/</li>
+</ul>
