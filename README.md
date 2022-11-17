@@ -55,7 +55,7 @@ Adding some **Social Media** flair with the option to post **Stories** and a **C
 
 
 ### Confirmation
-![Confirmation](https://user-images.githubusercontent.com/110164826/202510515-f7c26231-066f-4006-9823-13bd3b0ac758.png)
+![Confirmation](https://user-images.githubusercontent.com/110164826/202524236-cd5bfc24-402e-41fa-b116-0bb1ce2e16b5.png)
 
 
 
