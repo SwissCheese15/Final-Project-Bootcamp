@@ -5,7 +5,7 @@ Web-Experience for a Swiss NGO. **Bags-for-everyone** organizes **sewing worksho
 
 ## Webshop
 
-Building a **Webshop** with **Products**, **Cart**, **Payment**, **Orders**, **Stock-Tracking**, **Confirmation-email**
+Building a **Webshop** with **Products**, **Cart**, **Payment**, **Orders**, **Stock-Tracking**, **Confirmation-emails**
 
 ## Stories
 
